@@ -1,1 +1,1 @@
-# Generate-OTP-using-Python-Numerical-String-
+Send-OTP-to-Gamil-using-Python umerical-String-
